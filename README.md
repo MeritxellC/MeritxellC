@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **MeritxellC/MeritxellC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Field System Engineer and Analyst at the [Infrasound Lab](https://www.isla.hawaii.edu) at the 
+[University of Hawaiʻi (UH)](https://www.hawaii.edu).
+
+🌋 At UH, I am affiliated with the [Hawaiʻi Institute of Geophysics and Planetology](https://www.higp.hawaii.edu) and 
+the [School of Ocean and Earth Science and Technology](https://www.soest.hawaii.edu/soestwp/)
