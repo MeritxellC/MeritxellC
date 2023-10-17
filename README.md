@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am a Field System Engineer and Analyst at the [Infrasound Lab](https://www.isla.hawaii.edu) at the 
-[University of Hawaiʻi (UH)](https://www.hawaii.edu).
+🌱 I am a PhD student at the [Crustal Deformation Group](https://www.folarinkolawole.com) at [Columbia University](https://www.columbia.edu).
 
-🌋 At UH, I am affiliated with the [Hawaiʻi Institute of Geophysics and Planetology](https://www.higp.hawaii.edu) and 
-the [School of Ocean and Earth Science and Technology](https://www.soest.hawaii.edu/soestwp/).
+🌋 At Columbia, I am affiliated with the [Lamont-Doherty Earth Observatory](https://lamont.columbia.edu) and 
+the [Dept. of Earth and Environmental Sciences](https://eesc.columbia.edu).
